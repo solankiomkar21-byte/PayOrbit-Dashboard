@@ -1,0 +1,4 @@
+﻿
+> crossborder-payment-orchestrator@1.0.0 dev
+> concurrently "node server/index.js" "vite"
+

@@ -1,0 +1,13 @@
+﻿
+Name           Length PSIsContainer
+----           ------ -------------
+public                         True
+server                         True
+src                            True
+supabase                       True
+index.html     818            False
+ls_output.txt  0              False
+package.json   711            False
+vite.config.js 283            False
+
+

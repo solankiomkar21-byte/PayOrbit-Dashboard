@@ -1,0 +1,12 @@
+﻿node_modules
+public
+server
+src
+supabase
+dir_after.txt
+index.html
+ls_output.txt
+npm_output.txt
+package-lock.json
+package.json
+vite.config.js

@@ -1,0 +1,9 @@
+--- DIAGNOSTIC: START ---
+--- DIAGNOSTIC: IMPORTS OK ---
+--- DIAGNOSTIC: PRE-SEEDING ---
+--- DIAGNOSTIC: SEEDING STARTED ---
+✅ Seeded: 2 exporters, 4 buyers, 12 transactions
+--- DIAGNOSTIC: SEEDING FINISHED ---
+--- DIAGNOSTIC: ATTEMPTING TO LISTEN ---
+🚀 PayOrbit API Server running on http://127.0.0.1:3005
+^C

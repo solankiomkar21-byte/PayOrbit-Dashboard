@@ -1,0 +1,5 @@
+﻿Γ£à Seeded: 2 exporters, 4 buyers, 12 transactions
+≡ƒÜÇ PayOrbit API Server running on http://localhost:3001
+≡ƒôè Dashboard API: http://localhost:3001/api/dashboard/summary
+≡ƒÆ│ Transactions: http://localhost:3001/api/transactions
+≡ƒöÆ Fraud Engine: http://localhost:3001/api/fraud/score

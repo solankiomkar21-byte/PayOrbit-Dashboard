@@ -1,3 +1,11 @@
+/* Basic Utility Classes for your Layout */
+.flex { display: flex; }
+.h-screen { height: 100vh; }
+.flex-1 { flex: 1; }
+.flex-col { flex-direction: column; }
+.overflow-hidden { overflow: hidden; }
+.bg-gray-50 { background-color: #f9fafb; }
+.p-6 { padding: 1.5rem; }
 :root {
   --primary: #6366f1;
   --surface: #0f172a;

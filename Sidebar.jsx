@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useCurrency } from '../context/CurrencyContext.jsx';
+import { useCurrency } from './CurrencyContext.jsx';
 
 export default function Sidebar({ 
   currentPage, 

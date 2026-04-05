@@ -9,3 +9,4 @@ import VirtualAccounts from './VirtualAccounts.jsx';
 import Payouts from './Payouts.jsx';
 import Settings from './Settings.jsx';
 import { CurrencyProvider } from './CurrencyContext.jsx';
+export default App;
